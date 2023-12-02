@@ -4,7 +4,7 @@ Heyo! 😊🎄
 
 These are my advent of code challenges.
 
-They are done in `TypeScript` and to bring a little spice in, run in `Bun` instead of the commonly used `Node.js`
+They are done in `TypeScript` and to bring a little spice in, run in [Bun](https://bun.sh/) instead of the commonly used `Node.js`
 
 Every day is a new Bun project, with the first task being `index.ts` and the second being `advancement.ts`
 
